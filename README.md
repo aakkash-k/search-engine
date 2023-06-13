@@ -37,7 +37,7 @@ cd search-engine/request
 3. Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 4. Configure Elasticsearch:
