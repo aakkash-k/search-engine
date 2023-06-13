@@ -40,12 +40,6 @@ cd search-engine/request
 pip install -r requirement.txt
 ```
 
-4. Configure Elasticsearch:
-   - Install Elasticsearch on your machine. Refer to the Elasticsearch documentation for installation instructions.
-   - Start the Elasticsearch service.
-
-5. Modify the `app.py` file:
-   - Update the Elasticsearch configuration in the `app.py` file to match your Elasticsearch server settings.
 
 ## Usage
 
